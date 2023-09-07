@@ -6,3 +6,15 @@
 .num {
     margin: 0 3px;
 }
+
+.stretch {
+    background-color:rgb(44, 172, 44);
+    border: none;
+    color: #fff;
+    padding: 5px 10px;
+    transition: padding 0.5s;
+}
+
+.stretch:hover {
+    padding: 15px 30px;
+}
