@@ -1,0 +1,43 @@
+p, h3, h1 {
+    font-family: Arial;
+    width: 400px;
+    text-align: center;
+}
+
+.new-text {
+    margin: 0 0;
+    font-size: 12px;
+    color: orange;
+    font-weight: bold;
+}
+
+.lot-name {
+    margin: 8px 0 0 0;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.attention-text {
+    margin-top: 4px;
+    margin-bottom: 10px;
+    font-size: 36px;
+}
+
+.price-text {
+    margin-top: 10px;
+    font-size: 15px;
+    margin-bottom: 0;
+}
+
+.buy-button {
+    font-family: Arial;
+    text-align: center;
+    margin-left: 176px;
+    color: #fff;
+    background-color: rgb(29, 155, 240);
+    border: none;
+    border-radius: 15px;
+    font-weight: bold;
+    padding: 6px 12px;
+    margin-top: 15px;
+}
