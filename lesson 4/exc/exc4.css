@@ -35,6 +35,22 @@ button {
 .threedclick:active {
     margin-top: 2px;
     margin-left: 2px;
+    margin-bottom: -2px;
+    margin-right: -2px;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
 }
 
+.marginpadding {
+    background-color:rgb(44, 172, 44);
+    border: none;
+    color: #fff;
+    padding: 5px 10px;
+    margin: 0 10px;
+    transition: 0.3s;
+}
+
+.marginpadding:hover {
+    margin: 0 3px;
+    padding: 5px 17px;
+    border-radius: 5px;
+}
